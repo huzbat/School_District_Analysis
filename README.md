@@ -10,8 +10,7 @@ Considering potential academic dishonesty by the ninth grade students of Thomas 
 Initially all student data was accounted for.
 However, in the second trial the scores of ninth graders of Thomas High School were omitted from the calculations by replacing the scores with NaN.
 View Dataframe below for visual.
-https://github.com/huzbat/School_District_Analysis/blob/main/Resources/ninth_grade_scores_NaN.png
-
+![image](https://user-images.githubusercontent.com/87838015/185002111-bae80470-f10a-42ee-a418-80a3f17bd2c8.png)
 
 
 #### How is the district summary affected omitted?
@@ -29,15 +28,16 @@ After an in-depth analysis it was found that school was a bigge factor in scores
 
 ##### Scores by school spending
 School budget did not have a significant affect on the grades of students. As seen below.
-https://github.com/huzbat/School_District_Analysis/blob/main/Resources/budget.png
+![image](https://user-images.githubusercontent.com/87838015/185002146-224d7bbd-f468-4d9f-851a-38771786c515.png)
 ##### Scores by school size
 School type resulted in a significant difference in grade level.  It was found that school sizes classified as Large has the lowest average scores, whereas, the differenc ein scores between medium and small schools was negligible.
 As seen below.
-https://github.com/huzbat/School_District_Analysis/blob/main/Resources/size.png
+![image](https://user-images.githubusercontent.com/87838015/185002162-59cc1f77-b6ef-4779-ab3a-3fc5becff054.png)
 ##### Scores by school type
 Charter schools generally performed better than District schools. Evident by the fact that the top 5 schools with highest overall grades were all Charter schools.
 As seen below.
-https://github.com/huzbat/School_District_Analysis/blob/main/Resources/Charter_vs_District_schools.png
+![image](https://user-images.githubusercontent.com/87838015/185002017-d9663409-fab7-4281-a81c-f5ae96c8d67c.png)
+
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 #### How is the district summary affected replaced with NaN?
 The overall passing percentage for the entire district fell to 64.9%
