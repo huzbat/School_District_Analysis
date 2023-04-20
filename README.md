@@ -1,8 +1,9 @@
 # School_District_Analysis
 
-### 1. Explain the purpose of this analysis.
-Our objective was to analyze the data of an entire School District (both as a whole and individual schools), such as spending, funding, size, and student grades in order to gain novel insights and provide visual simplicity on these metrics. Accounting for potential academic dishonesty variables was also considered and made easier with visual simplicity.
-### 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+### Purpose:
+Analyze the data of an entire School District (both as a whole and individual schools), such as spending, funding, size, and student grades in order to gain novel insights and provide visual simplicity on these metrics. Accounting for potential academic dishonesty variables was also considered and made easier with visual simplicity.
+
+### 2. Results:
 Considering potential academic dishonesty by the ninth grade students of Thomas High School analysis was completed twice.
 Initially all student data was accounted for.
 However, in the second trial the scores of ninth graders of Thomas High School were omitted from the calculations by replacing the scores with NaN.
@@ -35,7 +36,7 @@ Charter schools generally performed better than District schools. Evident by the
 As seen below.
 ![image](https://user-images.githubusercontent.com/87838015/185002017-d9663409-fab7-4281-a81c-f5ae96c8d67c.png)
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
 #### How is the district summary affected replaced with NaN?
 The overall passing percentage for the entire district fell to 64.9%
 #### How is the school summary affected replaced with NaN?
