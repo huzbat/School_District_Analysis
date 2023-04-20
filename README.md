@@ -1,7 +1,5 @@
 # School_District_Analysis
 
-My analysis will contain the following:
-
 ### 1. Explain the purpose of this analysis.
 Our objective was to analyze the data of an entire School District (both as a whole and individual schools), such as spending, funding, size, and student grades in order to gain novel insights and provide visual simplicity on these metrics. Accounting for potential academic dishonesty variables was also considered and made easier with visual simplicity.
 ### 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions.
